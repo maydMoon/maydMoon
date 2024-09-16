@@ -1,6 +1,6 @@
 #  Hi there 🌺
 ## About me 
-I am a Computer Science undergraduate at the University of Brasília with a passion for web development. I am currently working as a frontend developer, focusing on React and Angular. I am currently working as a frontend developer, focusing on Angular and React.
+I am a Computer Science undergraduate at the University of Brasília with a passion for web development. I am currently working as a frontend developer, focusing on React and Angular.
 
 ## GitHub statistics
   <a href="https://github.com/maydMoon">
