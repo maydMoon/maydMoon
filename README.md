@@ -13,7 +13,6 @@ deeply about the intersection of design and code.
 - 🎓 CS student at **UnB**, Brasília
 - 💻 Frontend developer — mainly Angular & TypeScript
 - 📚 Always learning — currently revisiting React and Python
-- 💌 [mayllakrislainy@gmail.com](mailto:mayllakrislainy@gmail.com)
 - 🐱 Into design, games, and cats
 
 ---
