@@ -1,28 +1,46 @@
-#  Hi there 🌺
-## About me 
-I am a Computer Science undergraduate at the University of Brasília with a passion for web development. I am currently working as a frontend developer, focusing on React and Angular.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" align="right" width="120">
 
-## GitHub statistics
-  <a href="https://github.com/maydMoon">
-     <div>
-       <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maydMoon&layout=compact&langs_count=16&theme=dracula" />
-      <!-- <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=maydMoon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> -->
-     </div>
-    
+# Hi, I'm Maylla 🌺
 
+Frontend Developer · Computer Science @ UnB
 
-<!--
-## Languages and Tools  
+---
 
-## 
-  📚 Atualmente estou estudando React e 
-  📧 Como entrar em contato comigo: mayllakrislainy@gmail.com
-  💡 Curiosidade: Gosto de desing, games e gatos. 
-    -->
-##
-<!--
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mayllakrislainy@gmail.com)
--->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maylla-krislainy/)
+I'm a CS undergraduate at the **University of Brasília**, working full-time as a frontend
+developer. I build interfaces with **Angular** and **TypeScript** every day, and I care
+deeply about the intersection of design and code.
+
+- 🎓 CS student at **UnB**, Brasília
+- 💻 Frontend developer — mainly Angular & TypeScript
+- 📚 Always learning — currently revisiting React and Python
+- 💌 [mayllakrislainy@gmail.com](mailto:mayllakrislainy@gmail.com)
+- 🐱 Into design, games, and cats
+
+---
+
+## Languages & Tools
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maydMoon&layout=compact&langs_count=8&theme=horizon" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maydMoon&show_icons=true&theme=horizon&include_all_commits=true&count_private=true" />
+</div>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maylla-krislainy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayllakrislainy@gmail.com)
+
